@@ -1,0 +1,6 @@
+.featureCard:hover .featureCardBox {
+  background-image: url("./assets/features-wave.svg");
+  background-position: bottom 1rem right;
+  background-repeat: no-repeat;
+}
+
