@@ -4,3 +4,16 @@
   background-repeat: no-repeat;
 }
 
+.moveImage {
+  animation: moveimg 30s infinite linear;
+}
+
+@keyframes moveimg {
+  0% {
+    top: 0;
+  }
+
+  100% {
+    top: -170%;
+  }
+}
